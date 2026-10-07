@@ -12,5 +12,6 @@ I build AI/ML prototypes, backend services, and full-stack applications. I care 
 | [Glucose Pseudo-Label Evaluation](https://github.com/jiabeiliu/glucose-pseudolabel-evaluation) | Reproducible ML evaluation and its assumptions | [Project report](https://jiabeiliu.github.io/glucose-pseudolabel-evaluation/) |
 | [Blueprint Dive Map](https://github.com/jiabeiliu/blueprint-dive-map) | Interactive dive-planning website | [Live demo](https://blueprint-dive-map.nicoleliuuuuu.chatgpt.site/) |
 | [Evenness Predefined Answers](https://github.com/jiabeiliu/EvennessRocks-predefined-answers-feature) | Chrome extension for locally saved reusable answers and insertion into text fields | [Demo and installation guide](https://github.com/jiabeiliu/EvennessRocks-predefined-answers-feature#demo-walkthrough) |
+| [ClaimPulse](https://github.com/jiabeiliu/ClaimPulse) | Java-first claims event pipeline: Spring Boot ingestion/query API, Kafka event transport, Spark Structured Streaming validation, PostgreSQL serving store, Docker Compose local demo | [Repo](https://github.com/jiabeiliu/ClaimPulse) |
 
 I also keep selected coursework and small experiments public. Their READMEs distinguish the original assignment from later portfolio extensions. For collaboration or questions, open an issue in the relevant repository or contact me through GitHub.

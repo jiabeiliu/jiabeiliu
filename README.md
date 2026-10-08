@@ -6,6 +6,7 @@ I build AI/ML prototypes, backend services, and full-stack applications. I care 
 
 | Project | What to explore | Demo |
 | --- | --- | --- |
+| [RAG Medical Diagnosis Service](https://github.com/jiabeiliu/rag-medical-diagnosis) | Java 17 / Spring Boot RAG microservice: chunking → Ollama embeddings → pgvector retrieval → local LLM generation, with hit@k/MRR eval harness | [Live demo](https://muse.ai/s/rag-demo-xnr65xbxjcxmxyexh) |
 | [Insurance SOP Agent](https://github.com/jiabeiliu/SOP-controlled-insurance-agent) | Server-enforced identity verification, bounded model tasks, fixture-grounded claims, and explicit email consent | [Live demo](https://northstar-insurance-sop-harness.nicoleliuuuuu.chatgpt.site/) |
 | [ClaimPulse](https://github.com/jiabeiliu/ClaimPulse) | Java-first claims event pipeline: Spring Boot ingestion/query API, Kafka event transport, Spark Structured Streaming validation, PostgreSQL serving store, Docker Compose local demo | [Live demo](https://jiabeiliu.github.io/ClaimPulse/) |
 | [FairHire](https://github.com/jiabeiliu/FairHire-AI-Powered-Hiring-Fairness-Analysis) | Resume/job-description analysis and fairness signals using Gemini; an educational aid, not a validated hiring decision system | [Walkthrough screenshots](https://github.com/jiabeiliu/FairHire-AI-Powered-Hiring-Fairness-Analysis#verified-demo) |
@@ -16,3 +17,4 @@ I build AI/ML prototypes, backend services, and full-stack applications. I care 
 
 
 I also keep selected coursework and small experiments public. Their READMEs distinguish the original assignment from later portfolio extensions. For collaboration or questions, open an issue in the relevant repository or contact me through GitHub.
+

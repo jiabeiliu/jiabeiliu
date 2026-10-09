@@ -15,6 +15,12 @@ I build AI/ML prototypes, backend services, and full-stack applications. I care 
 | [Blueprint Dive Map](https://github.com/jiabeiliu/blueprint-dive-map) | Interactive dive-planning website | [Live demo](https://blueprint-dive-map.nicoleliuuuuu.chatgpt.site/) |
 | [Evenness Predefined Answers](https://github.com/jiabeiliu/EvennessRocks-predefined-answers-feature) | Chrome extension for locally saved reusable answers and insertion into text fields | [Demo and installation guide](https://github.com/jiabeiliu/EvennessRocks-predefined-answers-feature#demo-walkthrough) |
 
+## Research
+
+📚 [Google Scholar](https://scholar.google.com/citations?user=7ROQMk8AAAAJ&hl=en) — 7 publications, 236 citations. Selected:
+- **SemHash-LLM** — semantic hashing for LLMs (arXiv, Jul 2026)
+- **Tiered spatial validation** — MethodsX (Elsevier, Jan 2026)
+
 
 I also keep selected coursework and small experiments public. Their READMEs distinguish the original assignment from later portfolio extensions. For collaboration or questions, open an issue in the relevant repository or contact me through GitHub.
 

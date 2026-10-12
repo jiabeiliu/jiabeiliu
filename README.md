@@ -16,14 +16,6 @@ I build AI/ML prototypes, backend services, and full-stack applications. I care 
 | [Blueprint Dive Map](https://github.com/jiabeiliu/blueprint-dive-map) | Interactive dive-planning website | [Live demo](https://blueprint-dive-map.nicoleliuuuuu.chatgpt.site/) |
 | [Evenness Predefined Answers](https://github.com/jiabeiliu/EvennessRocks-predefined-answers-feature) | Chrome extension for locally saved reusable answers and insertion into text fields | [Demo and installation guide](https://github.com/jiabeiliu/EvennessRocks-predefined-answers-feature#demo-walkthrough) |
 
-## BrandLens demo
-
-**[Open the local live app](http://localhost:8081/)** after starting its backend on your computer ([setup](https://github.com/jiabeiliu/brandlens#run-it-mac-3-commands)). The localhost link is a local entry point, not a publicly hosted service.
-
-Ask an advertiser question, inspect cited evidence, compare brands, or enable **Evaluate with LLM judge** for groundedness / relevance scores and rationales. Audience recommendations are hypotheses to test; model judge scores are experimental, not human-calibrated.
-
-**[Watch the 30-second recorded demo](https://jiabeiliu.github.io/brandlens/#recorded-demo)** without local setup. It shows actual local generation and evaluation; inference waiting time is shortened. The same public page also provides an authored interactive walkthrough.
-
 ## Research
 
 📚 [Google Scholar](https://scholar.google.com/citations?user=7ROQMk8AAAAJ&hl=en) — 7 publications, 236 citations. Selected:

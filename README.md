@@ -6,7 +6,7 @@ I build AI/ML prototypes, backend services, and full-stack applications. I care 
 
 | Project | What to explore | Demo |
 | --- | --- | --- |
-| [BrandLens](https://github.com/jiabeiliu/brandlens) | Advertiser-insights prototype: brand-scoped RAG, inspectable evidence, audience hypotheses, comparison and evaluation workflow | [Interactive example demo](https://jiabeiliu.github.io/brandlens/) |
+| [BrandLens](https://github.com/jiabeiliu/brandlens) | Advertiser-insights prototype: brand-scoped RAG, inspectable evidence, audience hypotheses, comparison and evaluation workflow | [Local live demo](http://localhost:8081/) · [30s video + LLM judge](https://jiabeiliu.github.io/brandlens/#recorded-demo) |
 | [RAG Medical Diagnosis Service](https://github.com/jiabeiliu/rag-medical-diagnosis) | Java 17 / Spring Boot RAG microservice: chunking → Ollama embeddings → pgvector retrieval → local LLM generation, with hit@k/MRR eval harness | [Live demo](https://muse.ai/s/rag-demo-xnr65xbxjcxmxyexh) |
 | [Insurance SOP Agent](https://github.com/jiabeiliu/SOP-controlled-insurance-agent) | Server-enforced identity verification, bounded model tasks, fixture-grounded claims, and explicit email consent | [Live demo](https://northstar-insurance-sop-harness.nicoleliuuuuu.chatgpt.site/) |
 | [ClaimPulse](https://github.com/jiabeiliu/ClaimPulse) | Java-first claims event pipeline: Spring Boot ingestion/query API, Kafka event transport, Spark Structured Streaming validation, PostgreSQL serving store, Docker Compose local demo | [Live demo](https://jiabeiliu.github.io/ClaimPulse/) |
@@ -15,6 +15,14 @@ I build AI/ML prototypes, backend services, and full-stack applications. I care 
 | [Glucose Pseudo-Label Evaluation](https://github.com/jiabeiliu/glucose-pseudolabel-evaluation) | Reproducible ML evaluation and its assumptions | [Project report](https://jiabeiliu.github.io/glucose-pseudolabel-evaluation/) |
 | [Blueprint Dive Map](https://github.com/jiabeiliu/blueprint-dive-map) | Interactive dive-planning website | [Live demo](https://blueprint-dive-map.nicoleliuuuuu.chatgpt.site/) |
 | [Evenness Predefined Answers](https://github.com/jiabeiliu/EvennessRocks-predefined-answers-feature) | Chrome extension for locally saved reusable answers and insertion into text fields | [Demo and installation guide](https://github.com/jiabeiliu/EvennessRocks-predefined-answers-feature#demo-walkthrough) |
+
+## BrandLens demo
+
+**[Open the local live app](http://localhost:8081/)** after starting its backend on your computer ([setup](https://github.com/jiabeiliu/brandlens#run-it-mac-3-commands)). The localhost link is a local entry point, not a publicly hosted service.
+
+Ask an advertiser question, inspect cited evidence, compare brands, or enable **Evaluate with LLM judge** for groundedness / relevance scores and rationales. Audience recommendations are hypotheses to test; model judge scores are experimental, not human-calibrated.
+
+**[Watch the 30-second recorded demo](https://jiabeiliu.github.io/brandlens/#recorded-demo)** without local setup. It shows actual local generation and evaluation; inference waiting time is shortened. The same public page also provides an authored interactive walkthrough.
 
 ## Research
 
